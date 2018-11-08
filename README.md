@@ -1,1 +1,1 @@
-Some Jupyter Notebooks for Machine Learning and Data Analysis
+Jupyter Notebooks for Exercises of Machine Learning and Data Analysis
