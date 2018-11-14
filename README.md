@@ -11,8 +11,8 @@ Udemy
 
 Coursera
 
--Practical Time Series Analysis, by William Thistleton, Tural Sadigov
-
 -Machine Learning, by Andrew Ng
 
 -Deep Learning, by Andrew Ng
+
+-Practical Time Series Analysis, by William Thistleton, Tural Sadigov
