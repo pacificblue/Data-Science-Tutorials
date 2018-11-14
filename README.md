@@ -1,12 +1,12 @@
-Jupyter Notebooks for Exercises of Machine Learning and Data Analysis
+Jupyter Notebooks for Machine Learning and Data Analysis
 
-Materials are maily from following open courses:
+
+References:
+
 
 Udemy
 
 -Python for Data Science and Machine Learning Bootcamp, by Jose Portilla
-
--Complete Guide to TensorFlow for Deep Learning with Python, by Jose Portilla
 
 
 Coursera
