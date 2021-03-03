@@ -1,11 +1,11 @@
 
-#upyter Notebooks for Machine Learning and Data Analysis
+# Jupyter Notebooks for Machine Learning and Data Analysis
 
 
-#References:
+# References:
 
 
-##Udemy
+## Udemy
 
 -Python for Data Science and Machine Learning Bootcamp, by Jose Portilla
 
@@ -15,7 +15,7 @@
 
 
 
-##Coursera
+## Coursera
 
 -Machine Learning, by Andrew NG
 
