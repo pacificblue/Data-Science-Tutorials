@@ -1,5 +1,5 @@
 
-# Jupyter Notebooks for Machine Learning and Data Analysis
+# jupyter notebooks for excercise and guided projects
 
 
 # References:
