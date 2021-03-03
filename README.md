@@ -16,4 +16,7 @@ Udemy
 
 Coursera
 
+-Machine Learning, by Andrew NG
+-Deep Learning, by Andrew NG
+-Inferential Statistics, by Mine Çetinkaya-Rundel
 -Practical Time Series Analysis, by William Thistleton, Tural Sadigov
