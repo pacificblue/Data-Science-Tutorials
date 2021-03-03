@@ -7,7 +7,9 @@ References:
 Udemy
 
 -Deep Learning, Advanced NLP and RNNs, by Lazy Programmer
+
 -Deep Learning, Advanced Computer Vision, by Lazy Programmer
+
 -Python for Data Science and Machine Learning Bootcamp, by Jose Portilla
 
 
