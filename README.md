@@ -25,6 +25,6 @@
   
 -Practical Time Series Analysis, by William Thistleton, Tural Sadigov
 
-## Reference
+## Others
 
 https://blog.keras.io/a-ten-minute-introduction-to-sequence-to-sequence-learning-in-keras.html
