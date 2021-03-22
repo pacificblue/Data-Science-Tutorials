@@ -24,3 +24,7 @@
 -Inferential Statistics, by Mine Çetinkaya-Rundel
   
 -Practical Time Series Analysis, by William Thistleton, Tural Sadigov
+
+## Reference
+
+https://blog.keras.io/a-ten-minute-introduction-to-sequence-to-sequence-learning-in-keras.html
